@@ -1,0 +1,9 @@
+administrator:password
+
+admin:12345
+
+root:secret
+
+guest:guest
+
+root:toor

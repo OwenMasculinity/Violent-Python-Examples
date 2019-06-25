@@ -1,0 +1,11 @@
+admin
+
+root
+
+toor
+
+password
+
+password
+1
+12345
